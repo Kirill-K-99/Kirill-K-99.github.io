@@ -1,0 +1,34 @@
+html {
+    background-color: bisque;
+    font-size: 14px;
+    font-family: placeholder:'Times New Roman', Times, serif;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color:rgb(140, 191, 211);
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 2px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
